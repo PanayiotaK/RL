@@ -27,5 +27,5 @@ module load cuda/11.0-cudnn8.0
 #virtual env
 source  rl/bin/activate 
 # Run your program (replace this with your program)
-python3 rl_1.py
+python3 RL/rl_1.py
 
