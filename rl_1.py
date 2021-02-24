@@ -18,7 +18,7 @@ batch_size = 32
 video_every = 25
 print_every = 5
 
-replay_initial = 8000
+replay_initial = 100000
 num_frames = 1000000
 
 num_atoms = 51
